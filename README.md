@@ -11,6 +11,6 @@ Hey there! A portfolio website is like a digital playground where people showcas
 - **Skills:** Curious about what they're good at? This section's got the scoop!
 - **Contact:** Feel free to reach out if you wanna chat or collaborate!
 
-## Let's Connect
+## Explore
 
 Feel free to explore!
